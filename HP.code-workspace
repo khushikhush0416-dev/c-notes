@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"First.C": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "C Language"
+	}
+}
